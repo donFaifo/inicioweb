@@ -1,0 +1,203 @@
+{
+    "shortcut_icon":"img/Logo.png",
+    "mainLinks" : [
+        {
+            "link" : "http://www.leroymerlin.es",
+            "img":"img/Logo.png",
+            "text":"leroymerlin.es"
+        },
+        {
+            "link":"http://booster.es.corp.leroymerlin.com/booster/",
+            "img":"img/sod-provisional.png",
+            "text":"SOD"
+        },
+        {
+            "link":"https://crmlmes.crm4.dynamics.com",
+            "img":"img/field-service-provisional.png",
+            "text":"Field Service"
+        },
+        {
+            "link":"http://booster.es.corp.leroymerlin.com/booster/",
+            "img":"img/Booster-ico.png",
+            "text":"Booster"
+        },
+        {
+            "link":"https://younity.groupeadeo.com/welcome",
+            "img":"img/younity-ico.png",
+            "text":"Younity"
+        },
+        {
+            "link":"http://cajas.mguerrero.es/",
+            "img":"img/storage-boxes.png",
+            "text":"Storage Boxes App"
+        },
+        {
+            "link":"http://pappsrv04.es.corp.leroymerlin.com:13180/WebEtatObj/storeFilter.do?method=restart",
+            "img":"img/etatflash-ico.png",
+            "text":"Etat flash"
+        },
+        {
+            "link":"http://pappsrv05.es.corp.leroymerlin.com:17080/WebEDP/",
+            "img":"img/edp-ico.png",
+            "text":"EDP"
+        },
+        {
+            "link":"http://pcarteleria.es.corp.leroymerlin.com:9080/WebCarteleria/",
+            "img":"img/carteleria-ico.png",
+            "text":"Cartelería"
+        },
+        {
+            "link":"http://comunidad.leroymerlin.es/",
+            "img":"img/comunidad.png",
+            "text":"Comunidad"
+        },
+        {
+            "link":"https://plmesautomata01.es.corp.leroymerlin.com/intranet/telefonos/v1/dirceciones.htm",
+            "img":"img/tlf.png",
+            "text":"Teléfonos tiendas"
+        },
+        {
+            "link":"http://peslmappsrv04.es.corp.leroymerlin.com:8180/WebAvisoStock/login",
+            "img":"img/aviso-stock-ico.png",
+            "text":"Aviso stock"
+        },
+        {
+            "link":"http://ypeslmasltra/login",
+            "img":"img/tracking-ico.png",
+            "text":"Tracking"
+        },
+        {
+            "link":"https://leroymerlin.oney.es/calculadora/",
+            "img":"img/calculadora-ico.png",
+            "text":"Calculadora financiera"
+        }
+    ],
+    "menus":[
+        {
+            "name":"Google Apps",
+            "items":[
+                {
+                    "link":"https://keep.google.com/",
+                    "img":"img/google-keep-ico.png",
+                    "text":"Keep"
+                },{
+                    "link":"http://hangouts.google.com",
+                    "img":"img/hangout-ico.png",
+                    "text":"Hangouts"
+                },{
+                    "link":"https://maps.google.com",
+                    "img":"img/maps-ico.png",
+                    "text":"Maps"
+                },{
+                    "link":"http://docs.google.com/spreadsheets",
+                    "img":"img/google-hojas-de-calculo.png",
+                    "text":"Hojas de cálculo"
+                },{
+                    "link":"http://docs.google.com/document",
+                    "img":"img/google-documents.png",
+                    "text":"Documentos"
+                },{
+                    "link":"http://docs.google.com/presentation",
+                    "img":"img/google-slides.png",
+                    "text":"Presentaciones"
+                },{
+                    "link":"https://photos.google.com/?hl=es",
+                    "img":"img/google-photos.png",
+                    "text":"Fotos"
+                },{
+                    "link":"https://docs.google.com/forms/u/0/?tgif=c",
+                    "img":"img/forms.png",
+                    "text":"Formularios"
+                },{
+                    "link":"https://console.cloud.google.com",
+                    "img":"",
+                    "text":"Google Cloud Platform"
+                }
+            ]
+        },{
+            "name":"Microsoft",
+            "items":[
+                {
+                    "link":"https://onedrive.com",
+                    "img":"img/onedrive-ico.com",
+                    "text":"Onedrive"
+                },
+                {
+                    "link":"https://office.live.com/start/Excel.aspx?omkt=es-ES",
+                    "img":"",
+                    "text":"Excel"
+                },
+                {
+                    "link":"https://office.live.com/start/Word.aspx?WT.mc_id=O16_BingHP&omkt=es-HN",
+                    "img":"",
+                    "text":"Word"
+                },
+                {
+                    "link":"https://office.live.com/start/PowerPoint.aspx?omkt=es-ES",
+                    "img":"",
+                    "text":"PowerPoint"
+                },
+                {
+                    "link":"https://site.onenote.com/hrd?wdorigin=ondcauth2&wdorigin=ondcnotebooks",
+                    "img":"",
+                    "text":"Onenote"
+                },
+                {
+                    "link":"https://www.office.com",
+                    "img":"",
+                    "text":"Office"
+                }
+            ]
+        },{
+            "name":"Otros enlaces",
+            "items":[
+                {
+                    "link":"http://pgescon2.es.corp.leroymerlin.com:9080/web/guest",
+                    "img":"",
+                    "text":"Intranet"
+                },{
+                    "link":"http://unhabitatmejor.leroymerlin.es/",
+                    "img":"",
+                    "text":"Un hábitat mejor"
+                },{
+                    "link":"http://campus.leroymerlin.es",
+                    "img":"",
+                    "text":"Campus LM"
+                },{
+                    "link":"#",
+                    "img":"",
+                    "text":"divider"
+                },{
+                    "link":"http://connect.leroymerlin.es",
+                    "img":"",
+                    "text":"Connect Leroy Merlin"
+                },{
+                    "link":"http://pgescon2.es.corp.leroymerlin.com:9080/web/guest",
+                    "img":"",
+                    "text":"Portal empleado"
+                },{
+                    "link":"http://kronos.leroymerlin.es/wfc/portal",
+                    "img":"",
+                    "text":"Kronos"
+                }
+            ]
+        }
+    ],
+    "navLinks":[
+    	{
+    		"link":"https://mail.google.com",
+    		"img":"img/Gmail-ico.png",
+    		"text":"Gmail"
+    	},
+    	{
+    		"link":"https://calendar.google.com",
+    		"img":"img/google-calendar-ico.png",
+    		"text":"Calendar"
+    	},
+    	{
+    		"link":"https://drive.google.com",
+    		"img":"img/Google-Drive-ico.png",
+    		"text":"Google Drive"
+    	}
+    ]
+}

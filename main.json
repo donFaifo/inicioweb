@@ -1,0 +1,137 @@
+{
+    "shortcut_icon":"img/atomo-ico.png",
+    "mainLinks" : [
+        {
+            "link" : "https://www.office.com",
+            "img":"img/office365.png",
+            "text":"Office 365"
+        },
+        {
+            "link":"https://keep.google.com/",
+            "img":"img/keep-ico.png",
+            "text":"Keep"
+        },
+        {
+            "link":"http://portal.uned.es/portal/page?_pageid=93,153054&_dad=portal&_schema=PORTAL",
+            "img":"img/UNED-ico.jpg",
+            "text":"UNED"
+        },
+        {
+            "link":"http://campus.ceac.com/",
+            "img":"img/ceac-ico.jpg",
+            "text":"CEAC"
+        },
+        {
+            "link":"https://www.unicaja.es/PortalServlet?pag=1110902071492",
+            "img":"img/unicaja-ico.png",
+            "text":"Univía"
+        },
+        {
+            "link":"https://admin.1and1.es/xml/config/Login;jsessionid=FE83788CF6DEA50C9A63021FA622F33F.TCpfix83b?__lf=Static&__rd=ac170c228TOBcnDcFyrFHXYMWFhXPV1T&origin[site]=PU.WH.ES&origin[page]=Home&ucuoId=PUAC%3Adefault.WH.ES-20120208111120-C27703B57F8710600ED6DEAE00B18AC4.TCpfix145b",
+            "img":"img/1and1-ico.png",
+            "text":"1&amp;1 panel de control"
+        },
+        {
+            "link":"https://www.twitter.com",
+            "img":"img/twitter.png",
+            "text":"Twitter"
+        },
+        {
+            "link":"https://login.facebook.com/login.php?login_attempt=1",
+            "img":"img/facebook-ico.png",
+            "text":"Facebook&nbsp;"
+        },
+        {
+            "link":"http://www.youtube.com/?gl=ES&hl=es",
+            "img":"img/youtube-ico.png",
+            "text":"Youtube"
+        },
+        {
+            "link":"https://photos.google.com/",
+            "img":"img/google-fotos-ico.png",
+            "text":"Google fotos"
+        },
+        {
+            "link":"https://www.netflix.com/browse/",
+            "img":"img/netflix-ico.png",
+            "text":"Netflix"
+        },
+        {
+            "link":"https://www.quironsalud.es/idcsalud-client/cm/portal-paciente/tkMain",
+            "img":"img/quiron-ico.png",
+            "text":"Quirón Marbella"
+        },
+        {
+            "link":"https://ws003.juntadeandalucia.es/pls/intersas/servicios.acceso_portal",
+            "img":"img/citamedico-ico.png",
+            "text":"Cita médico S.Social"
+        },
+        {
+            "link":"https://clientes.jazztel.com/inicio",
+            "img":"img/jazztel-ico.png",
+            "text":"Jazztel"
+        },
+        {
+            "link":"https://maps.google.com",
+            "img":"img/maps-ico.png",
+            "text":"Google maps"
+        },
+        {
+            "link":"https://shoppinglist.google.com/lists/9430316600906092241",
+            "img":"img/shopping-list.png",
+            "text":"Lista de la compra"
+        }
+    ],
+    "menus":[
+        {
+            "name":"Microsoft",
+            "items":[
+                {
+                    "link":"https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1342296919&rver=6.1.6206.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=3082&id=64855&mkt=es-es&cbcxt=mai&snsc=1",
+                    "img":"img/outlook-ico.png",
+                    "text":"Outlook"
+                },{
+                    "link":"https://outlook.live.com/calendar/",
+                    "img":"img/outlook-calendar-ico.png",
+                    "text":"Outlook calendar"
+                },{
+                    "link":"https://skydrive.live.com/?cid=62b415b480cd936d",
+                    "img":"img/onedrive-ico.png",
+                    "text":"Onedrive"
+                }
+            ]
+        },
+        {
+            "name":"Mis webs",
+            "items":[
+                {
+                    "link":"http://mguerrero.ddns.net",
+                    "img":"img/atomo-ico.png",
+                    "text":"Servidor casa"
+                },
+                {
+                    "link":"http://mguerrero.es/inicioweb/?ini=lm",
+                    "img":"img/atomo-ico.png",
+                    "text":"Inicio Leroy Merlin"
+                }
+            ]
+        }
+    ],
+    "navLinks":[
+    	{
+    		"link":"https://mail.google.com",
+    		"img":"img/Gmail-ico.png",
+    		"text":"Gmail"
+    	},
+    	{
+    		"link":"https://calendar.google.com",
+    		"img":"img/google-calendar-ico.png",
+    		"text":"Google Calendar"
+    	},
+    	{
+    		"link":"https://drive.google.com",
+    		"img":"img/Google-Drive-ico.png",
+    		"text":"Google Drive"
+    	}
+    ]
+}

@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document 
+form {
+	align-content: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 100%;
+}
+
+.link {
+	padding-top: 10px;
+	/* border-radius: 15px; 
+	border: thin solid;
+	border-color: transparent;
+}
+*/
+
+.link:hover {
+	border-color: #38CFFF;
+	background-color: #eeeeee; 
+}
