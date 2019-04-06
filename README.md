@@ -44,3 +44,7 @@ En los menus, como item se puede usar el siguiente objeto para generar una líne
   "img":"",
   "text":"divider"
 }
+
+Inicioweb usará el archivo main.json pero, adicionalmente se pueden usar archivos extra enviando
+una petición get a la página _?ini=nombre_archivo_json
+
