@@ -1,6 +1,6 @@
 "# inicioweb" 
 
-Pequeña página de inicio para usar con cualquier navegador.
+Página de inicio para usar en un servidor y que funcione como portal con accesos directos a los sitios que se desee.
 
 Los enlaces se dividen en:
 Enlaces principales (mainLinks)
