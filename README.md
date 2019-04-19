@@ -8,7 +8,7 @@ Enlaces de la barra de navegación (_navLinks_)
 Menús con enlaces de la barra de navegación (_menus_)
 
 Se generan todos los enlaces a través de un archivo **.json** con la siguiente estructura:
-```javascript
+```json
 {
   "mainLinks": [
     {
@@ -38,8 +38,10 @@ Se generan todos los enlaces a través de un archivo **.json** con la siguiente 
   ],
   "shortcut_icon":"icono para favicon"
 }
+```
 
 En los menus, como item se puede usar el siguiente objeto para generar una línea divisoria:
+```json
 {
   "link":"#",
   "img":"",
@@ -47,6 +49,6 @@ En los menus, como item se puede usar el siguiente objeto para generar una líne
 }
 ```
 
-Inicioweb usará el archivo main.json pero, adicionalmente se pueden usar archivos extra enviando
-una petición get a la página _?ini=nombre_archivo_json
+Inicioweb usará el archivo _main.json_ pero, adicionalmente se pueden usar archivos extra enviando
+una petición **get** a la página --> _?ini=nombre_archivo_json_
 
