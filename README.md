@@ -3,11 +3,12 @@
 Página de inicio para usar en un servidor y que funcione como portal con accesos directos a los sitios que se desee.
 
 Los enlaces se dividen en:
-Enlaces principales (mainLinks)
-Enlaces de la barra de navegación (navLinks)
-Menús con enlaces de la barra de navegación (menus)
+Enlaces principales (_mainLinks_)
+Enlaces de la barra de navegación (_navLinks_)
+Menús con enlaces de la barra de navegación (_menus_)
 
-Se generan todos los enlaces a través de un archivo .json con la siguiente estructura:
+Se generan todos los enlaces a través de un archivo **.json** con la siguiente estructura:
+```javascript
 {
   "mainLinks": [
     {
@@ -44,6 +45,7 @@ En los menus, como item se puede usar el siguiente objeto para generar una líne
   "img":"",
   "text":"divider"
 }
+```
 
 Inicioweb usará el archivo main.json pero, adicionalmente se pueden usar archivos extra enviando
 una petición get a la página _?ini=nombre_archivo_json
